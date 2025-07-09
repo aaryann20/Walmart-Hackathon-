@@ -26,9 +26,9 @@ Walmart Sparkthaon Submission: This project is designed to empower Walmart’s s
 
 > _Add screenshots of your dashboard, AI assistant, inventory upload, compliance, billing, and logistics pages here._
 
-- ![Dashboard Screenshot](./screenshots/dashboard.png)
-- ![AI Assistant Screenshot](./screenshots/ai-assistant.png)
-- ![Inventory Screenshot](./screenshots/inventory.png)
+- ![Dashboard Screenshot](dashboard.png)
+- ![AI Assistant Screenshot](ai-assistant.png)
+- ![Inventory Screenshot](inventory.png)
 
 ---
 
