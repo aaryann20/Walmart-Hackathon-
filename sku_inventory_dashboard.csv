@@ -1,0 +1,26 @@
+SKU,Product Name,Category,Availability,HS Code,Price,Market Demand,Warehouse,Status,AI Actions
+SKU004,Snacks,Food,187,190590,2.0,61,Backup Warehouse B,In Stock,No Action Needed
+SKU002,LED Bulbs,Lighting,145,940510,3.5,74,West Coast Hub D,In Stock,Monitor Demand
+SKU006,Sweaters,Apparel,446,611020,35.0,96,Backup Warehouse B,In Stock,No Action Needed
+SKU004,Snacks,Food,283,190590,2.0,68,Main Warehouse A,In Stock,Run Promotion
+SKU008,Steel Structures,Construction,8,730890,2500.0,83,West Coast Hub D,Low Stock,Recommend Restock
+SKU003,Shoes,Apparel,11,640399,45.0,65,West Coast Hub D,Low Stock,Recommend Restock
+SKU005,Handbags,Accessories,449,420292,60.0,67,Main Warehouse A,In Stock,Monitor Demand
+SKU008,Steel Structures,Construction,485,730890,2500.0,61,Main Warehouse A,In Stock,Recommend Restock
+SKU007,Monitors,Electronics,221,852872,120.0,56,Backup Warehouse B,In Stock,Monitor Demand
+SKU004,Snacks,Food,475,190590,2.0,85,West Coast Hub D,In Stock,Recommend Restock
+SKU008,Steel Structures,Construction,360,730890,2500.0,65,Regional Hub C,In Stock,No Action Needed
+SKU002,LED Bulbs,Lighting,363,940510,3.5,50,Backup Warehouse B,In Stock,Recommend Restock
+SKU002,LED Bulbs,Lighting,102,940510,3.5,70,Regional Hub C,In Stock,Monitor Demand
+SKU001,Electronic Components,Electronics,362,854239,15.0,81,West Coast Hub D,In Stock,No Action Needed
+SKU007,Monitors,Electronics,328,852872,120.0,51,Regional Hub C,In Stock,Recommend Restock
+SKU004,Snacks,Food,274,190590,2.0,58,Main Warehouse A,In Stock,Recommend Restock
+SKU004,Snacks,Food,458,190590,2.0,61,Regional Hub C,In Stock,No Action Needed
+SKU007,Monitors,Electronics,362,852872,120.0,92,West Coast Hub D,In Stock,Monitor Demand
+SKU002,LED Bulbs,Lighting,247,940510,3.5,98,Regional Hub C,In Stock,Run Promotion
+SKU001,Electronic Components,Electronics,429,854239,15.0,75,Backup Warehouse B,In Stock,Monitor Demand
+SKU001,Electronic Components,Electronics,492,854239,15.0,67,Backup Warehouse B,In Stock,Recommend Restock
+SKU004,Snacks,Food,338,190590,2.0,86,West Coast Hub D,In Stock,Recommend Restock
+SKU006,Sweaters,Apparel,318,611020,35.0,56,Main Warehouse A,In Stock,Recommend Restock
+SKU005,Handbags,Accessories,447,420292,60.0,89,Regional Hub C,In Stock,Recommend Restock
+SKU008,Steel Structures,Construction,249,730890,2500.0,63,Main Warehouse A,In Stock,Run Promotion
